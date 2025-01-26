@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi, I'm Thien! 👋 <br><br>🔭 I'm currently working on:<br>- Computer vision ML model for object processing using TensorFlow/PyTorch<br>- Automated resume review and scanner application<br>- Finishing my BS in Computer Science at WashU<br><br>📩 You can reach me at h.thien@wustl.edu<br><br>⚡ Fun fact:<br>I'm an avid Valorant and TFT player :)
+Hey, I'm Thien! 👋 <br><br>🔭 I'm currently working on:<br>- Computer vision ML model for object processing using TensorFlow/PyTorch<br>- Automated resume review and scanner application<br>- Finishing my BS in Computer Science at WashU<br><br>📩 You can reach me at h.thien@wustl.edu<br><br>⚡ Fun fact:<br>I'm an avid Valorant and TFT player :)
 
 
 ## 🌐 Socials:
